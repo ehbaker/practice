@@ -1,0 +1,10 @@
+Good Flavors:
+Chcolate
+Mint Chip
+Pistachio
+Chai
+
+Bad Flavors:
+Vanilla
+Mud
+Lobster
