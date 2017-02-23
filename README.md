@@ -2,7 +2,8 @@
 
 ### Note: this is a workflow where one person (me, Emily) is the owner of a repository.
 #### Workflow is slightly different if multiple people are _collaborators_ on a project (i.e. have write permissions)
-#### In this workflow, 
+
+#### If you're working inside the USGS network, you'll need to complete an additional step to work inside the firewall. Directions are [here](https://docs.google.com/a/doi.gov/document/d/18M6IHL_dfdypAHX8gUTr6LCsNRQA82rMdYfrEeBk6tg/edit?usp=sharing). Change this before proceding.
 
 To change a document here, do the following:
 + Click on **'fork'** in the upper right habd of this page, to create YOUR personal branch of this repository. Create it under your username, as prompted.
@@ -21,4 +22,5 @@ To change a document here, do the following:
 ### Yay! Now you can edit the files on your local machine!! Woop!!
 
 ### To push changes back up to github:
-+ 
++ Make changes. Since these are text files, notepad, notepad ++, Subline text would all work to edit. Save and close file.
++ Add changes to the git tracking on your local machine: `
