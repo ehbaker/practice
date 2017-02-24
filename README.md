@@ -35,4 +35,4 @@ To change a document here, do the following:
 
 # Feel free to practice this process here, before going on to work with more difficult projects!
 
-##For more detailed tutorials, check out [Software Carpentry](http://swcarpentry.github.io/git-novice/).
+##For more detailed tutorials, check out [Software Carpentry's Git Tutorial](http://swcarpentry.github.io/git-novice/).
