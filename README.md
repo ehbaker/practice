@@ -34,3 +34,5 @@ To change a document here, do the following:
 * You will now see a message that "This branch has no conflicts with the base branch. Only those with write access to this repository can merge pull requests.". The repository owner (me) has recieved a notification that you're requesting a change, and can now review and either accept or reject.
 
 # Feel free to practice this process here, before going on to work with more difficult projects!
+
+##For more detailed tutorials, check out [Software Carpentry](http://swcarpentry.github.io/git-novice/).
