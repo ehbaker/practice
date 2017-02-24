@@ -23,7 +23,7 @@ To change a document here, do the following:
 
 ### To push changes back up to github:
 + Make changes. Since these are text files, notepad, notepad ++, Subline text would all work to edit. Save and close file.
-+ Commit the changes you've made to the git tracking on your local machine: `git commit filenameOfFileYouChanged -m " short message about the changes you've made"
++ Commit the changes you've made to the git tracking on your local machine: `git commit filenameOfFileYouChanged -m " short message about the changes you've made" `
   * The -m "message" flag is important; Git will not accept your commit without it. If you forget to enter, the default text editor that ships with Git Bash is Vims... an old-school text editor which is hard to escape. If you end up here, quit by hitting Esc, then :, then q! . Phew! In the future, don't forget the -m "msg".
 + Push the changes you've made up to YOUR version of this project ONLINE: `git push origin master`
   * If you go to https://github.com/yourusername/practice.git, you'll see the new changes you've made (may need to refresh page).
